@@ -6,7 +6,7 @@
 * **Github:** [KhmelevskayaMS](https://github.com/KhmelevskayaMS)
 ## **About me**
 I am 29 years old, I work as a chemical engineer.And now I am a beginner Front-End developer. I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.I am reliable and dependable.
-## **Scills**
+## **Skills**
 * HTML (Basic)
 * CSS (Basic)
 * JavaScript (Basic)
